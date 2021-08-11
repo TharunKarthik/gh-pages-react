@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Github page running using react
+          Github page running using react</p>
         <a
           className="App-link"
           href="https://reactjs.org"
